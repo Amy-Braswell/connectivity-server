@@ -1,0 +1,26 @@
+{
+  "name": "connectivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server",
+    "start": "nodemon --ignore client/ server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.13.1",
+    "apollo-server-express": "^2.18.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "google-auth-library": "^6.0.0",
+    "graphql": "^14.6.0",
+    "graphql-request": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.11",
+    "nodemon": "^1.19.4",
+    "react-confirm-alert": "^2.6.1"
+  }
+}
