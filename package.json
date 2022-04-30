@@ -13,6 +13,7 @@
   "dependencies": {
     "apollo-server": "^2.13.1",
     "apollo-server-express": "^2.18.1",
+    "Babel": "^0.0.1",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "google-auth-library": "^6.0.0",
